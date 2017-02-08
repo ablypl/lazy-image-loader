@@ -1,0 +1,24 @@
+{
+  "name": "lari-lazy-image",
+  "version": "1.0.0",
+  "description": "Lazy image loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ablypl/lazy-image-loader.git"
+  },
+  "keywords": [
+    "vue",
+    "image",
+    "loader"
+  ],
+  "author": "Sebastian Szczepanski <sebastian@ably.pl> (http://ably.pl)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ablypl/lazy-image-loader/issues"
+  },
+  "homepage": "https://github.com/ablypl/lazy-image-loader#readme"
+}
