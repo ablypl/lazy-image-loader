@@ -1,6 +1,6 @@
 {
   "name": "lari-lazy-image",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Lazy image loader",
   "main": "index.js",
   "scripts": {
